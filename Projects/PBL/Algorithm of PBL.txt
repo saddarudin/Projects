@@ -1,0 +1,58 @@
+Step1:
+->Make University class with appropriate attributes.
+->Make two constructors an empty constructor and an argumentative constructor.
+->Make getters for all the attributes.
+->Make toString method.
+->Make a txt file and write (4 word) keys in it.
+->Make String array to store keys in Main class and University array to store Objects of University class.
+->Now make a method to read both the files .csv file and .txt file and store them in the arrays declared above.
+
+
+Step 2:
+->Make hashTable class with its appropriate methods
+->Now using any loop say for loop to take key and corresponding value(University) from their arrays
+  declared in the previous step and put them in hashTable one by one.
+
+
+Step 3:
+->Make Stack class with its appropriate methods also a method called get() that gets position of key
+  and returns key of that position if it exists, make another push() method that takes three arguments
+  1.orderBy(pakRanking/noOfPublications),2.Key to store in that stack and 3.University object to get noOfPublications
+  so that can be compared with other universities whose keys are already stored in the stack.
+
+->Now in the argumentative push method before store key decide its position by comparing with all
+  the universities and store that key.
+
+-> Now in main class make a method and using for loop call argumentative push method and pass the appropriate arguments.
+
+
+Step 4:
+->Use step three
+->Only difference is you have to pass the argument on which ranking you want to store like pakRanking etc.
+
+
+Problem 1:
+->To access the data without collision better to make the hashTable which stores LinkedList at every index
+->Now you can get the object by using appropriate index (hashcode) and traverse the linked list at that index.
+
+
+Problem 2:
+->Make a method that takes argument orderBy and pops the top x universities from the LinkedLists
+  based on the argument passed, stores them into array and push again into stack and return that array
+
+->Make method like previous but this time it stores x universities from bottom (use for loop to reach the position
+  from where you want to pop up the keys) stores them into array and then push again into the same stack at the end
+  and return that array
+
+->And nth percentile can be calculated by using formula : n=P/100*N where: n=ordinal rank, P=percentile, N=No of values in data;
+  Through this formula calculate the percentile that will be the position of the university and then take key of that position from
+  stack and give it to the hashTable it will return you the information about the university i.e. University object.
+
+
+
+Problem 3:
+->Make stacks one for each province and store universities in respective stacks.
+->Now traverse each stack and calculate the average of no of publications of each stack.
+->Now the average will decide which province is best and which is the worst.
+
+
