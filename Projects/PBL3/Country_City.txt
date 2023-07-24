@@ -1,0 +1,158 @@
+Nepal: Mehele
+Japan: Ofunato City
+Chile: La Ligua
+Greece: Municipality of Galaxidi
+Philippines:
+Japan: Joso City
+Japan: Yaizu City
+United States: Tacoma
+Iran: Tarem Rural District
+Philippines: Mati
+Greece: Municipality of Desfina
+Bolivia: Sabaya Municipality
+Japan: Tokyo
+China: Urumqi City
+Chile: Aysén
+Japan: Tokyo
+Japan: Sado City
+China: Dongchuan District
+New Zealand/Aotearoa: Gisborne
+China: Renze District
+China: Ningjin County
+China: Ningjin County
+China: Shijiazhuang City
+China: Xingtai City
+Chile: Illapel
+Peru: Callería
+Japan: Tokyo
+Nepal: Sunkuda
+Nepal: Banjh
+Nepal: Pipalkot
+Chile: Antofagasta
+Guatemala: Municipality of Retalhuleu
+Peru: Pastaza
+Iran: Dohkuye Rural District
+Greece: Municipality of Amfilochia
+Nepal: Syandi
+Japan: Iwaki City
+Iran: Somar Rural District
+China: Qing County
+Japan: Ayabe City
+China: Driru County, Tibet
+Chile: Antofagasta
+Japan: Asahi City
+Bhutan: Sagteng
+Nicaragua: Granada
+Chile: Tocopilla
+Chile: Ollagüe
+Chile: Copiapó
+Japan: Ebino City
+Japan: Sukumo City
+Peru: Moyobamba
+Iran: Irandegan District
+Japan: Uwajima City
+Bolivia: Yacuíba
+Iran: Pas Kelot District
+Iran: Suburban District of Ferdows County
+Iran: Mobarakeh District
+Chile: Ovalle
+Chile: Ovalle
+Nicaragua: Jinotepe Municipality
+Bolivia: Cabezas Municipality
+Japan: Tomakomai City
+Japan: Gujo City
+South Africa: Witzenberg Local Municipality
+Peru: Comas
+Peru: Comas
+Iran: Bazman District
+China: Yuxi City
+China: Yuxi City
+Iran: Suburban District
+China: Dayi County
+Iran: Siahoo District
+Japan: Kitaakita City
+Philippines: Mati
+Japan: Miyako City
+South Africa: Witzenberg Local Municipality
+Philippines: Calbayog
+Chile: Antofagasta
+Chile: Natales
+Iran: Shalmi District
+Japan: Yokote City
+Indonesia: Nabire
+Iran: Ghaleh-Askar District
+Chile: Tocopilla
+Chile: Antofagasta
+Japan: Tokyo Metropolis
+Japan: Tahara City
+Bolivia: Santiago de Machaca Municipality
+Iran: Eastern Kalateh Hayi District
+Japan: Joetsu City
+Philippines: Butuan
+Philippines: Butuan
+China: Dingqing County, Tibet Autonomous Region
+Chile: Calama
+China: Zhongba County, Tibet Autonomous Region
+Japan: Tokyo Metropolis
+China: Anduo County, Tibet Autonomous Region
+Japan: Kushima City
+Chile: Antofagasta
+Chile: Antofagasta
+Chile: Antofagasta
+Chile: Ollagüe
+Peru: Morona
+Iran: East and West Shirgah rural district
+Bolivia: San Agustin Municipality
+Japan: Nagaoka City
+Japan: Kushiro City
+Chile: Calama
+Japan: Miyakojima City
+Vanuatu: Luganville
+Iran: Kookherd rural district
+Iran: Aysin rural district
+Chile: Calama
+Chile: Natales
+Iran: Hangam rural district
+Chile: Ovalle
+Iran: Mohsen Ab rural district
+Iran: Bibi Hakimah rural district
+Chile: Natales
+Japan: Ono City
+Greece: Xylokastro municipality
+Dominican Republic: San Francisco de Macoris
+Bolivia: Llica Municipality
+Chile: Colchane
+Nicaragua: Managua Municipality
+Chile: Ovalle
+Indonesia: Wulla Waijelu District
+Japan: Nemuro City
+Japan: Nemuro City
+Chile: Ovalle
+Peru: San Juan de Tarucani
+China: Mianyang City
+Peru: Callería
+China: Garzê County
+Japan: Sanmu City
+Japan: Kazo City
+Bolivia: Yacuiba
+Japan: Ofunato City
+Chile: Vallenar
+Japan: Tanabe City
+Japan: Tanabe City
+Chile: Calama
+Peru: Mariatana
+Japan: Miyazaki City
+Nepal: Lapilang
+China: Lishui District
+Chile: Antofagasta
+China: Zhaotong City
+South Africa: Randfontein Local Municipality
+Japan: Tokyo
+
+
+
+
+
+
+
+
